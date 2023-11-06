@@ -1,0 +1,7 @@
+>Python is primarily interpreted, while Java code is usually compiled into a lower-level "bytecode", which is then either compiled or interpreted depending on the environment
+>Both are platform-independent, in the sense that Java compiled code can be run on different platforms, and in the sense that Python can be interpreted on different platforms. 
+>Python generally has simpler, more readable syntax than Java. 
+>Java is generally faster than Python. 
+>Java is statically typed (like C++), while Python is dynamically typed.
+>Python is mainly used for machine learning, GUI construction, image processing, web scraping, and scientific computing, among other uses. Java is used for GUI construction, AI, web applications, and game/video game development. Of course, this is not exhaustive. 
+>
